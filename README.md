@@ -13,7 +13,7 @@ Harrison Smith
 In this assignment, we built an API which can access and show all different types of information about tons of different movies by accessing the the OMDB database. 
 
 ### View Project:
-https://hcsmith95.github.io/lesson8_ajax/
+https://hcsmith95.github.io/lesson8_ajax/ 
 
 
 ### Lessons Learned in the Assignment:
